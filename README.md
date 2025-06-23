@@ -1,5 +1,5 @@
 
-# 📈 Trader Sentiment Analyzer
+# 📈 Bitcoin Market Sentiment Analyzer
 
 Analyze trader performance against **Bitcoin market sentiment** (Fear & Greed Index) using interactive visualizations and intelligent strategy suggestions. Built with **Streamlit** for easy use.
 
@@ -38,9 +38,8 @@ Timestamp IST,Coin,Execution Price,Size USD,Side,Closed PnL,...
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/trader-sentiment-analyzer.git
-cd trader-sentiment-analyzer
-
+git clone https://github.com/dark-eternal-05/Bitcoin-Market-Sentiment-Analysis.git
+cd Bitcoin-Market-Sentiment-Analysis
 # Install dependencies
 pip install -r requirements.txt
 
